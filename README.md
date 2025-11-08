@@ -1,4 +1,4 @@
-<h1 align="center">AUGEAGORA</h1>
+<h1 align="center">Auge Agora</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=esdouglasserrano&theme=rose&show_icons=true" />
   <br>
