@@ -1,5 +1,5 @@
 <h1 align="center">Auge Agora</h1>
-<p align="center">Hey, I'm Douglas Serrano. Not much at the moment. Currently learning C#.</p>
+<p align="center">Hey, I'm Douglas Serrano. Not much at the moment. Currently learning C#. Also short.</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=augeagora&theme=rose&show_icons=true" />
   <br>
